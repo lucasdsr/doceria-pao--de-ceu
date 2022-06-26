@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: Sansita Swashed, cursive;
+}
+
+.container {
+  background-color: #62C4FC;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
