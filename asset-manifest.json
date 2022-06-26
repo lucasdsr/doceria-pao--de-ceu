@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/doceria-pao-de-ceu/static/css/main.c2015b27.css",
+    "main.js": "/doceria-pao-de-ceu/static/js/main.b2d42351.js",
+    "static/js/787.f0096df2.chunk.js": "/doceria-pao-de-ceu/static/js/787.f0096df2.chunk.js",
+    "static/media/carousel_img_2.jpeg": "/doceria-pao-de-ceu/static/media/carousel_img_2.cc9444ca829ca933b845.jpeg",
+    "static/media/carousel_img_3.jpeg": "/doceria-pao-de-ceu/static/media/carousel_img_3.14be8be466ba501e6cee.jpeg",
+    "static/media/product_4.jpeg": "/doceria-pao-de-ceu/static/media/product_4.52fe88c9d9b11a9c6a5a.jpeg",
+    "static/media/carousel_img_1.jpeg": "/doceria-pao-de-ceu/static/media/carousel_img_1.72d22767bdde087c5f94.jpeg",
+    "static/media/product_3.jpeg": "/doceria-pao-de-ceu/static/media/product_3.dab7df0896f06585b048.jpeg",
+    "static/media/product_2.jpeg": "/doceria-pao-de-ceu/static/media/product_2.49b0a4acb7e37a8e0b30.jpeg",
+    "static/media/product_1.jpeg": "/doceria-pao-de-ceu/static/media/product_1.d088a54563833f767250.jpeg",
+    "static/media/logo.jpeg": "/doceria-pao-de-ceu/static/media/logo.46e9184fb9e43c80a48a.jpeg",
+    "index.html": "/doceria-pao-de-ceu/index.html",
+    "main.c2015b27.css.map": "/doceria-pao-de-ceu/static/css/main.c2015b27.css.map",
+    "main.b2d42351.js.map": "/doceria-pao-de-ceu/static/js/main.b2d42351.js.map",
+    "787.f0096df2.chunk.js.map": "/doceria-pao-de-ceu/static/js/787.f0096df2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2015b27.css",
+    "static/js/main.b2d42351.js"
+  ]
+}
